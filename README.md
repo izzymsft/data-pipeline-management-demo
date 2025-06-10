@@ -1,2 +1,2 @@
-# data-pipeline-management-demo
+# Data Pipeline Management Demo
 Data Management Demo
